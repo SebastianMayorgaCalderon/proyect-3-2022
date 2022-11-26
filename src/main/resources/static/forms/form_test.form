@@ -1,0 +1,36 @@
+{
+  "components": [
+    {
+      "text": "# Test form",
+      "type": "text",
+      "id": "Field_02avs95"
+    },
+    {
+      "label": "Field A",
+      "type": "textfield",
+      "id": "Field_088e8ay",
+      "key": "test_field_a"
+    },
+    {
+      "label": "Field B",
+      "type": "textfield",
+      "id": "Field_01bfymi",
+      "key": "test_field_b"
+    },
+    {
+      "label": "Field C",
+      "type": "textfield",
+      "id": "Field_0h1exai",
+      "key": "test_field_c"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1xafmxj",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
