@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "text": "# Realizar disculpa o recompensación",
+      "type": "text",
+      "id": "Field_1i1d4ul"
+    },
+    {
+      "values": [
+        {
+          "label": "Correo",
+          "value": "correoid"
+        },
+        {
+          "label": "Teléfono",
+          "value": "telefonoid"
+        }
+      ],
+      "label": "Medio de contacto que se hace la resolución",
+      "type": "checklist",
+      "id": "Field_1brwgwa",
+      "key": "resolucion_medio_contacto"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0c5mtjp",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

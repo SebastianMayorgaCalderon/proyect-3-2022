@@ -1,0 +1,108 @@
+{
+  "components": [
+    {
+      "text": "# Tabular Queja",
+      "type": "text",
+      "id": "Field_1orxjxa"
+    },
+    {
+      "label": "Numero",
+      "type": "textfield",
+      "id": "Field_1adw557",
+      "key": "id_numero"
+    },
+    {
+      "label": "Fecha",
+      "type": "textfield",
+      "id": "Field_0qyewu8",
+      "key": "id_telefono"
+    },
+    {
+      "label": "Medio de recepción",
+      "type": "textfield",
+      "id": "Field_0f05o1t",
+      "key": "id_medioRecepcion"
+    },
+    {
+      "label": "Rango de Horario",
+      "type": "textfield",
+      "id": "Field_0boc08u",
+      "key": "id_RangeHorario"
+    },
+    {
+      "label": "Nombre del invitado",
+      "type": "textfield",
+      "id": "Field_13cy9jc",
+      "key": "id_nombreInvitado"
+    },
+    {
+      "label": "Teléfono",
+      "type": "textfield",
+      "id": "Field_1a9r1jh",
+      "key": "id_cell"
+    },
+    {
+      "label": "Email",
+      "type": "textfield",
+      "id": "Field_1vylhoi",
+      "key": "id_email"
+    },
+    {
+      "label": "Descripción del comentario",
+      "type": "textfield",
+      "id": "Field_07z1g7x",
+      "key": "id_desc_comentario"
+    },
+    {
+      "label": "Heladería que presento problemas",
+      "type": "textfield",
+      "id": "Field_16h9ral",
+      "key": "id_heladeria"
+    },
+    {
+      "label": "Presentó problemas con atención de queja",
+      "type": "textfield",
+      "id": "Field_1alvxkc",
+      "key": "id_atencion_quejas"
+    },
+    {
+      "label": "Cantidad de quejas emitidas",
+      "type": "textfield",
+      "id": "Field_0mr8be0",
+      "key": "id_cantidad_quejas"
+    },
+    {
+      "label": "Clasificación de quejas",
+      "type": "textfield",
+      "id": "Field_131zvdd",
+      "key": "id_clasificacion_queja"
+    },
+    {
+      "label": "Detalle de la queja",
+      "type": "textfield",
+      "id": "Field_0jt2ojv",
+      "key": "id_queja_details"
+    },
+    {
+      "label": "Nivel de prioridad",
+      "type": "textfield",
+      "id": "Field_0ark6a5",
+      "key": "id_prioridad"
+    },
+    {
+      "label": "Seguimiento de la queja",
+      "type": "textfield",
+      "id": "Field_1lgk1oc",
+      "key": "id_seg_queja"
+    }
+  ],
+  "type": "default",
+  "id": "Form_10ra62l",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

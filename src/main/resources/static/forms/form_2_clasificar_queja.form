@@ -1,0 +1,162 @@
+{
+  "components": [
+    {
+      "text": "# Clasificar Queja",
+      "type": "text",
+      "id": "Field_1wo7jd4"
+    },
+    {
+      "label": "Queja 1",
+      "type": "textfield",
+      "id": "Field_0nyh9ll",
+      "key": "id_queja_1"
+    },
+    {
+      "label": "Atención del invitado",
+      "type": "checkbox",
+      "id": "Field_1n99syb",
+      "key": "id_atIn1"
+    },
+    {
+      "label": "Variedad de producto e innovación",
+      "type": "checkbox",
+      "id": "Field_0uprzum",
+      "key": "id_vaProIn1"
+    },
+    {
+      "label": "Calidad de producto",
+      "type": "checkbox",
+      "id": "Field_12hp020",
+      "key": "id_calPro1"
+    },
+    {
+      "label": "Higiene ",
+      "type": "checkbox",
+      "id": "Field_1gqngia",
+      "key": "id_higi1"
+    },
+    {
+      "label": "Ambiente Decorado",
+      "type": "checkbox",
+      "id": "Field_03tt719",
+      "key": "id_AD1"
+    },
+    {
+      "label": "Queja 2",
+      "type": "textfield",
+      "id": "Field_111ognq",
+      "key": "id_queja_2"
+    },
+    {
+      "label": "Atención del invitado",
+      "type": "checkbox",
+      "id": "Field_09elckl",
+      "key": "id_atIn2"
+    },
+    {
+      "label": "Variedad de producto e innovación",
+      "type": "checkbox",
+      "id": "Field_0eqhffb",
+      "key": "id_vaProIn2"
+    },
+    {
+      "label": "Calidad de producto",
+      "type": "checkbox",
+      "id": "Field_0lcluko",
+      "key": "id_calPro2"
+    },
+    {
+      "label": "Higiene ",
+      "type": "checkbox",
+      "id": "Field_0slq3w7",
+      "key": "id_higi2"
+    },
+    {
+      "label": "Ambiente Decorado",
+      "type": "checkbox",
+      "id": "Field_1axrss4",
+      "key": "id_AD2"
+    },
+    {
+      "label": "Queja 3",
+      "type": "textfield",
+      "id": "Field_0wmkf8q",
+      "key": "id_queja3"
+    },
+    {
+      "label": "Atención del invitado",
+      "type": "checkbox",
+      "id": "Field_1xr029m",
+      "key": "id_atIn3"
+    },
+    {
+      "label": "Variedad de producto e innovación",
+      "type": "checkbox",
+      "id": "Field_0wwgaua",
+      "key": "id_vaProIn3"
+    },
+    {
+      "label": "Calidad de producto",
+      "type": "checkbox",
+      "id": "Field_13gic7j",
+      "key": "id_calPro3"
+    },
+    {
+      "label": "Higiene ",
+      "type": "checkbox",
+      "id": "Field_0u7iwq2",
+      "key": "id_higi3"
+    },
+    {
+      "label": "Ambiente Decorado",
+      "type": "checkbox",
+      "id": "Field_0zlvo5j",
+      "key": "id_AD3"
+    },
+    {
+      "label": "Queja 4",
+      "type": "textfield",
+      "id": "Field_1u5k5k5",
+      "key": "id_queja_4"
+    },
+    {
+      "label": "Atención del invitado",
+      "type": "checkbox",
+      "id": "Field_04djw8w",
+      "key": "id_atIn4"
+    },
+    {
+      "label": "Variedad de producto e innovación",
+      "type": "checkbox",
+      "id": "Field_0ndc7ah",
+      "key": "id_vaProIn4"
+    },
+    {
+      "label": "Calidad de producto",
+      "type": "checkbox",
+      "id": "Field_1bu9efp",
+      "key": "id_calPro4"
+    },
+    {
+      "label": "Higiene ",
+      "type": "checkbox",
+      "id": "Field_11baooq",
+      "key": "id_higi4"
+    },
+    {
+      "label": "Ambiente Decorado",
+      "type": "checkbox",
+      "id": "Field_0jlxggh",
+      "key": "id_AD4"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0n7egmv",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
