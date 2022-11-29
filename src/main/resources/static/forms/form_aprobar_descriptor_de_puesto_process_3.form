@@ -1,0 +1,46 @@
+{
+  "components": [
+    {
+      "text": "# Aprobar descriptor",
+      "type": "text",
+      "id": "Field_1vbqyny"
+    },
+    {
+      "text": "# Text",
+      "type": "text",
+      "id": "Field_0jl2yvv"
+    },
+    {
+      "label": "Text Field",
+      "type": "textfield",
+      "id": "Field_0s28kif",
+      "key": "field_0admhkh",
+      "disabled": true,
+      "defaultValue": "#{descriptor}"
+    },
+    {
+      "values": [
+        {
+          "label": "Aprobado",
+          "value": "Si"
+        },
+        {
+          "label": "No aprobado",
+          "value": "No"
+        }
+      ],
+      "type": "radio",
+      "id": "Field_0vccv42",
+      "key": "descriptorAprobado"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0m5b83x",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

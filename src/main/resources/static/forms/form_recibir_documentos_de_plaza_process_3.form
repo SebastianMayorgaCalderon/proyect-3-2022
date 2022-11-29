@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "text": "# Recibir documentos de plaza",
+      "type": "text",
+      "id": "Field_0n4j7zh"
+    },
+    {
+      "values": [
+        {
+          "label": "R-DHCO-AR03  Plaza Regional",
+          "value": "R-DHCO-AR03"
+        },
+        {
+          "label": " R-DHCO-AR01 Nueva Plaza",
+          "value": " R-DHCO-AR01"
+        }
+      ],
+      "label": "Tipo de plaza",
+      "type": "radio",
+      "id": "Field_0bt3znc",
+      "key": "tipoPlaza"
+    }
+  ],
+  "type": "default",
+  "id": "Form_143mmmb",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
