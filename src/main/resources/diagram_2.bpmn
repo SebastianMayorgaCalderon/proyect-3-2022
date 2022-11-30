@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xmlns:modeler="http://camunda.org/schema/modeler/1.0" id="Definitions_1oaghj8" targetNamespace="http://bpmn.io/schema/bpmn" exporter="Camunda Modeler" exporterVersion="5.5.0" modeler:executionPlatform="Camunda Platform" modeler:executionPlatformVersion="7.18.0">
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xmlns:camunda="http://camunda.org/schema/1.0/bpmn" xmlns:modeler="http://camunda.org/schema/modeler/1.0" id="Definitions_1oaghj8" targetNamespace="http://bpmn.io/schema/bpmn" exporter="Camunda Modeler" exporterVersion="5.5.0" modeler:executionPlatform="Camunda Platform" modeler:executionPlatformVersion="7.18.0">
   <bpmn:process id="Process_0iibib4" isExecutable="true">
     <bpmn:startEvent id="StartEvent_1">
       <bpmn:outgoing>Flow_1opg838</bpmn:outgoing>
@@ -23,19 +23,19 @@
     <bpmn:sequenceFlow id="Flow_0uogfae" sourceRef="Activity_1mrf1c8" targetRef="Activity_0rihi96" />
     <bpmn:sequenceFlow id="Flow_0v11xfn" sourceRef="Activity_11qqef0" targetRef="Gateway_00zlfbb" />
     <bpmn:sequenceFlow id="Flow_1sjh57n" name="No" sourceRef="Gateway_00zlfbb" targetRef="Activity_0rihi96" />
-    <bpmn:userTask id="Activity_0j4var0" name="Recibir la quejas">
+    <bpmn:userTask id="Activity_0j4var0" name="Recibir la quejas" camunda:formKey="camunda-forms:/forms/form_2_recibir_queja.form">
       <bpmn:incoming>Flow_1opg838</bpmn:incoming>
       <bpmn:outgoing>Flow_1vmebt3</bpmn:outgoing>
     </bpmn:userTask>
-    <bpmn:userTask id="Activity_10z7o3w" name="Tabular la queja en la matriz">
+    <bpmn:userTask id="Activity_10z7o3w" name="Tabular la queja en la matriz" camunda:formKey="camunda-forms:/forms/form_2_tabular_quejas.form">
       <bpmn:incoming>Flow_1vmebt3</bpmn:incoming>
       <bpmn:outgoing>Flow_1y3oq23</bpmn:outgoing>
     </bpmn:userTask>
-    <bpmn:userTask id="Activity_0e8eefu" name="Clasificar la queja">
+    <bpmn:userTask id="Activity_0e8eefu" name="Clasificar la queja" camunda:formKey="camunda-forms:/forms/form_2_clasificar_queja.form">
       <bpmn:incoming>Flow_1y3oq23</bpmn:incoming>
       <bpmn:outgoing>Flow_0cox1wk</bpmn:outgoing>
     </bpmn:userTask>
-    <bpmn:userTask id="Activity_0zknhu9" name="Preparar la resolución del caso">
+    <bpmn:userTask id="Activity_0zknhu9" name="Preparar la resolución del caso" camunda:formKey="camunda-forms:/forms/form_2_resolucion_queja.form">
       <bpmn:incoming>Flow_0cox1wk</bpmn:incoming>
       <bpmn:outgoing>Flow_0136kj7</bpmn:outgoing>
     </bpmn:userTask>
@@ -43,16 +43,16 @@
       <bpmn:incoming>Flow_0136kj7</bpmn:incoming>
       <bpmn:outgoing>Flow_0v11xfn</bpmn:outgoing>
     </bpmn:userTask>
-    <bpmn:userTask id="Activity_06awigk" name="Coordinar la recompensa">
+    <bpmn:userTask id="Activity_06awigk" name="Coordinar la recompensa" camunda:formKey="camunda-forms:/forms/form_2_disculpa_por_medio.form">
       <bpmn:incoming>Flow_0w489s0</bpmn:incoming>
       <bpmn:outgoing>Flow_0x8uca6</bpmn:outgoing>
     </bpmn:userTask>
-    <bpmn:userTask id="Activity_0rihi96" name="Informar que la queja fue atendida y solucionada">
+    <bpmn:userTask id="Activity_0rihi96" name="Informar que la queja fue atendida y solucionada" camunda:formKey="camunda-forms:/forms/form_2_informar_que_atendida.form">
       <bpmn:incoming>Flow_0uogfae</bpmn:incoming>
       <bpmn:incoming>Flow_1sjh57n</bpmn:incoming>
       <bpmn:outgoing>Flow_14uxkyl</bpmn:outgoing>
     </bpmn:userTask>
-    <bpmn:userTask id="Activity_1mrf1c8" name="Entregar la regalía">
+    <bpmn:userTask id="Activity_1mrf1c8" name="Entregar la regalía" camunda:formKey="camunda-forms:/forms/form_2_informar_regalia.form">
       <bpmn:incoming>Flow_0x8uca6</bpmn:incoming>
       <bpmn:outgoing>Flow_0uogfae</bpmn:outgoing>
     </bpmn:userTask>
