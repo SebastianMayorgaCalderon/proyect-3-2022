@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Preparación propuesta formación",
+      "type": "text",
+      "id": "Field_11qgzy0"
+    },
+    {
+      "label": "Crear Propuesta",
+      "type": "textfield",
+      "id": "Field_1g1ltk8",
+      "key": "id_propuesta"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0z0zt45",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

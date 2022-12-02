@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Aprobar propuesta",
+      "type": "text",
+      "id": "Field_0tr96x5"
+    },
+    {
+      "label": "Aprobar",
+      "type": "checkbox",
+      "id": "Field_111hjuc",
+      "key": "id_aprobar"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0lpzeen",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

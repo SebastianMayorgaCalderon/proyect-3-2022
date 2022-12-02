@@ -1,0 +1,48 @@
+{
+  "components": [
+    {
+      "text": "# Implememntar formacion",
+      "type": "text",
+      "id": "Field_1rdcxtl"
+    },
+    {
+      "label": "Nombre completo",
+      "type": "textfield",
+      "id": "Field_1ao8jmz",
+      "key": "id_name_c"
+    },
+    {
+      "label": "Departamento",
+      "type": "textfield",
+      "id": "Field_0wk80tl",
+      "key": "id_dep"
+    },
+    {
+      "label": "Fecha",
+      "type": "textfield",
+      "id": "Field_0a9xls3",
+      "key": "id_fecha"
+    },
+    {
+      "label": "Nombre formación",
+      "type": "textfield",
+      "id": "Field_1iocz3n",
+      "key": "id_formacion"
+    },
+    {
+      "label": "Duración",
+      "type": "textfield",
+      "id": "Field_1bjsmmx",
+      "key": "idDuracio"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0kr7zk0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

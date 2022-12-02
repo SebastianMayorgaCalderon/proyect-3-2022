@@ -1,0 +1,77 @@
+{
+  "components": [
+    {
+      "label": "Tema",
+      "type": "textfield",
+      "id": "Field_1h2m9ml",
+      "key": "id_tema"
+    },
+    {
+      "label": "Objetivo de formación",
+      "type": "textfield",
+      "id": "Field_1u5uung",
+      "key": "id_obj_formacion"
+    },
+    {
+      "values": [
+        {
+          "label": "Gerencias",
+          "value": "id_gerencia"
+        },
+        {
+          "label": "Puntos Ventas",
+          "value": "id_pun_ventas"
+        },
+        {
+          "label": "Jefes",
+          "value": "id_jefes"
+        },
+        {
+          "label": "Operarios",
+          "value": "id_operarios"
+        }
+      ],
+      "label": "Tipo de particiapantes",
+      "type": "checklist",
+      "id": "Field_0tu8lof",
+      "key": "field_0smxtvn"
+    },
+    {
+      "label": "Fecha",
+      "type": "textfield",
+      "id": "Field_0kyxvcw",
+      "key": "id_fechas"
+    },
+    {
+      "label": "Hora",
+      "type": "textfield",
+      "id": "Field_128ue63",
+      "key": "id_hora"
+    },
+    {
+      "values": [
+        {
+          "label": "Virtual",
+          "value": "id_virtual"
+        },
+        {
+          "label": "Presencial",
+          "value": "id_presencial"
+        }
+      ],
+      "label": "Modalidad",
+      "type": "checklist",
+      "id": "Field_07bgd25",
+      "key": "id_modalidad"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1n25wtl",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

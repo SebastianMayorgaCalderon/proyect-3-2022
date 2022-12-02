@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Aprobar propuesta de comunicación",
+      "type": "text",
+      "id": "Field_172l2lw"
+    },
+    {
+      "label": "Aprobado",
+      "type": "checkbox",
+      "id": "Field_0qx5aqk",
+      "key": "id_propuesta_aproba"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0q4vvop",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

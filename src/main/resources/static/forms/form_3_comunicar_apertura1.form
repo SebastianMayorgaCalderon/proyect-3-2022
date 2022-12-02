@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Comunicar la apertura a los departamentos",
+      "type": "text",
+      "id": "Field_06bvng5"
+    },
+    {
+      "label": "comunicar",
+      "type": "checkbox",
+      "id": "Field_1r2b2vs",
+      "key": "id_comunicacion"
+    }
+  ],
+  "type": "default",
+  "id": "Form_038hyz2",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

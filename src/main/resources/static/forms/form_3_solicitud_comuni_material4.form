@@ -1,0 +1,61 @@
+{
+  "components": [
+    {
+      "text": "# Solicitud de comunicados y material",
+      "type": "text",
+      "id": "Field_14vah7s"
+    },
+    {
+      "label": "Tema",
+      "type": "textfield",
+      "id": "Field_0b60zse",
+      "key": "id_tema_soli_comunicados"
+    },
+    {
+      "label": "Objetivo",
+      "type": "textfield",
+      "id": "Field_1hmem0n",
+      "key": "id_objetivo"
+    },
+    {
+      "label": "Lista de personas a convocar",
+      "type": "textfield",
+      "id": "Field_1s4rk54",
+      "key": "id_convo_perso"
+    },
+    {
+      "label": "Fecha",
+      "type": "textfield",
+      "id": "Field_1am4yth",
+      "key": "id_fech"
+    },
+    {
+      "label": "Hora",
+      "type": "textfield",
+      "id": "Field_0t0b0m9",
+      "key": "id_hour"
+    },
+    {
+      "label": "Modalidad",
+      "type": "textfield",
+      "id": "Field_0imsib9",
+      "key": "id_mod"
+    },
+    {
+      "action": "submit",
+      "label": "Enviar",
+      "type": "button",
+      "id": "Field_1wyyx3c",
+      "key": "field_1t07a2c"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0nzqzw1",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

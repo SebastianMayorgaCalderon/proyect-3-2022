@@ -1,0 +1,33 @@
+{
+  "components": [
+    {
+      "values": [
+        {
+          "label": "Virtual",
+          "value": "id_validacion_virt"
+        },
+        {
+          "label": "Escrita",
+          "value": "id_validacion_escrt"
+        },
+        {
+          "label": "Oral",
+          "value": "id_validacion_orl"
+        }
+      ],
+      "label": "Tipo de validacion",
+      "type": "checklist",
+      "id": "Field_0lkx7ab",
+      "key": "field_0wf020v"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1j3uy4l",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
