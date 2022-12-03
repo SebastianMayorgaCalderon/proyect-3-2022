@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Revisar referencias",
+      "type": "text",
+      "id": "Field_0t1f0f8"
+    },
+    {
+      "label": "Referencias revisadas",
+      "type": "checkbox",
+      "id": "Field_005dr0w",
+      "key": "field_0gx2jmi"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0vvju4s",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Indicar Candidatos preseleccionados",
+      "type": "text",
+      "id": "Field_0i7f877"
+    },
+    {
+      "label": "Candidatos preseleccionados",
+      "type": "checkbox",
+      "id": "Field_0uhn2ab",
+      "key": "field_0a8e6ko"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0zqvp7e",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

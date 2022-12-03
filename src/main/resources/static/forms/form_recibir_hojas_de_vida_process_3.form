@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Recibir hojas de vida",
+      "type": "text",
+      "id": "Field_16zlby5"
+    },
+    {
+      "label": "Recibidas",
+      "type": "checkbox",
+      "id": "Field_19o5mlk",
+      "key": "field_1wm8k72"
+    }
+  ],
+  "type": "default",
+  "id": "Form_03eg990",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
