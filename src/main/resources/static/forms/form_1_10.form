@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Registrar asistencia",
+      "type": "text",
+      "id": "Field_0hguo0s"
+    },
+    {
+      "label": "registrada",
+      "type": "checkbox",
+      "id": "Field_1bxsj2h",
+      "key": "field_0hwg0bj"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0wx2af3",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

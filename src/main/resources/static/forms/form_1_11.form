@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Enviar la validación de",
+      "type": "text",
+      "id": "Field_1jcv1oj"
+    },
+    {
+      "label": "Enviada",
+      "type": "checkbox",
+      "id": "Field_10ocdkd",
+      "key": "field_0pq2uun"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0c4ys06",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

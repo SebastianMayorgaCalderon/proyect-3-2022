@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "text": "# Solicitar info por email",
+      "type": "text",
+      "id": "Field_04x92vb"
+    },
+    {
+      "values": [
+        {
+          "label": "no",
+          "value": "no"
+        },
+        {
+          "label": "si",
+          "value": "si"
+        }
+      ],
+      "label": "facilitador",
+      "type": "radio",
+      "id": "Field_1tcpv9i",
+      "key": "facilitador"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1qxe0pm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
