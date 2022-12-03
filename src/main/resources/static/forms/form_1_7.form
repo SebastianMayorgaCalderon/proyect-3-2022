@@ -19,7 +19,8 @@
       "label": "Aprobada",
       "type": "radio",
       "id": "Field_01ujfgd",
-      "key": "aprobada"
+      "key": "aprobada",
+      "defaultValue": "si"
     }
   ],
   "type": "default",
