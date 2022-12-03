@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "text": "# Comunicar veredicto final",
+      "type": "text",
+      "id": "Field_1fj03tw"
+    },
+    {
+      "values": [
+        {
+          "label": "si",
+          "value": "si"
+        },
+        {
+          "label": "no",
+          "value": "no"
+        }
+      ],
+      "label": "Recibira Recompensa",
+      "type": "radio",
+      "id": "Field_00t4ehx",
+      "key": "recompensa"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0i53cok",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

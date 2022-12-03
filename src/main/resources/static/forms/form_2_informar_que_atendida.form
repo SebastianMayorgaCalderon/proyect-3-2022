@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Informar que fue atendida la queja y solucionada",
+      "type": "text",
+      "id": "Field_0v7glqq"
+    },
+    {
+      "label": "Informar",
+      "type": "checkbox",
+      "id": "Field_0zaue8d",
+      "key": "id_informarQueja"
+    }
+  ],
+  "type": "default",
+  "id": "Form_170mca5",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
