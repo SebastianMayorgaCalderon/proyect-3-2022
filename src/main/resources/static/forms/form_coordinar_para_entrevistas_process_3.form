@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Coordinar con los seleccionados para entrevistas",
+      "type": "text",
+      "id": "Field_09p92xx"
+    },
+    {
+      "label": "Entrevistas agendadas",
+      "type": "checkbox",
+      "id": "Field_1boh8wh",
+      "key": "field_07m0zph"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0hhov5z",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

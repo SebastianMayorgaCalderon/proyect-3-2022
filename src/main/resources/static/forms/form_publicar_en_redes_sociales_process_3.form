@@ -1,0 +1,42 @@
+{
+  "components": [
+    {
+      "text": "# Publicar en redes sociales",
+      "type": "text",
+      "id": "Field_12rovan"
+    },
+    {
+      "label": "Publicar en Twitter",
+      "type": "checkbox",
+      "id": "Field_08pw7za",
+      "key": "field_1v3k688"
+    },
+    {
+      "label": "Publicar en linkedin",
+      "type": "checkbox",
+      "id": "Field_0zi9k96",
+      "key": "field_1kd66ij"
+    },
+    {
+      "label": "Publicar en facebook",
+      "type": "checkbox",
+      "id": "Field_0iyg38u",
+      "key": "field_0grhu04"
+    },
+    {
+      "label": "Publicar en Instagram",
+      "type": "checkbox",
+      "id": "Field_198d37k",
+      "key": "field_0c319ua"
+    }
+  ],
+  "type": "default",
+  "id": "Form_02u329h",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

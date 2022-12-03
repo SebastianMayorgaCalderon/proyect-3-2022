@@ -1,0 +1,26 @@
+{
+  "components": [
+    {
+      "text": "# Crear descriptor de puesto",
+      "type": "text",
+      "id": "Field_0qrnt5v"
+    },
+    {
+      "label": "Descripcion",
+      "type": "textfield",
+      "id": "Field_18fhcch",
+      "key": "descriptor",
+      "properties": {},
+      "disabled": false
+    }
+  ],
+  "type": "default",
+  "id": "Form_1ivq7dp",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
