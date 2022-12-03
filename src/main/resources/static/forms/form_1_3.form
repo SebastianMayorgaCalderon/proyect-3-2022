@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Solicitar apoyo",
+      "type": "text",
+      "id": "Field_0w1g7jh"
+    },
+    {
+      "label": "solicitada",
+      "type": "checkbox",
+      "id": "Field_0cr89p6",
+      "key": "field_1mhsthl"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1pydkou",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Convocar por correo",
+      "type": "text",
+      "id": "Field_0t7cg1m"
+    },
+    {
+      "label": "convocado",
+      "type": "checkbox",
+      "id": "Field_11vewgf",
+      "key": "field_1h0emy1"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1nhjarn",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

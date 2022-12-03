@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Ejecutar entrevistas",
+      "type": "text",
+      "id": "Field_0la0bef"
+    },
+    {
+      "label": "Entrevistas ejecutadas",
+      "type": "checkbox",
+      "id": "Field_0arc5gc",
+      "key": "field_0iuh31m"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1wo765p",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

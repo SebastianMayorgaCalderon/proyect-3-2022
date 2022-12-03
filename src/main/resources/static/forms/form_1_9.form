@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Implementar formación",
+      "type": "text",
+      "id": "Field_1kygya8"
+    },
+    {
+      "label": "implementada",
+      "type": "checkbox",
+      "id": "Field_1hy73zd",
+      "key": "field_0blehgq"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1t07e31",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

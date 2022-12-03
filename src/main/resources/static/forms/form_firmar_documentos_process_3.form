@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Firma de contrato y docs",
+      "type": "text",
+      "id": "Field_0gjort2"
+    },
+    {
+      "label": "Documentos firmados",
+      "type": "checkbox",
+      "id": "Field_1od1yq1",
+      "key": "field_0envgk8"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1v3zgqw",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

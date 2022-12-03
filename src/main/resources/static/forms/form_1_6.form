@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Crear propuesta de comunicacion",
+      "type": "text",
+      "id": "Field_0zgnlgn"
+    },
+    {
+      "label": "creada",
+      "type": "checkbox",
+      "id": "Field_0q1ddtw",
+      "key": "field_1a9uj7t"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0b7y57u",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

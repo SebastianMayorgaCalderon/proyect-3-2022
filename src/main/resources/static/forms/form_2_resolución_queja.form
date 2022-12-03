@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Resolución del caso",
+      "type": "text",
+      "id": "Field_064j2o1"
+    },
+    {
+      "label": "Resolución",
+      "type": "textfield",
+      "id": "Field_1xrr02d",
+      "key": "field_12azhni"
+    }
+  ],
+  "type": "default",
+  "id": "Resolucion_grupalid",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

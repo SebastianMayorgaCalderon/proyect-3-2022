@@ -1,0 +1,29 @@
+{
+  "components": [
+    {
+      "text": "# ",
+      "type": "text",
+      "id": "Field_065wp7s"
+    },
+    {
+      "text": "# Seleccionar posibles candidatos",
+      "type": "text",
+      "id": "Field_0ctp99i"
+    },
+    {
+      "label": "Candidatos seleccionados",
+      "type": "checkbox",
+      "id": "Field_1ceb955",
+      "key": "field_1gm4lsk"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1w2di74",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

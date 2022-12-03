@@ -1,0 +1,24 @@
+{
+  "components": [
+    {
+      "text": "# Comunicar por correo electronico",
+      "type": "text",
+      "id": "Field_029dvky"
+    },
+    {
+      "label": "comunicado",
+      "type": "checkbox",
+      "id": "Field_0ckk1gq",
+      "key": "field_15x7rfu"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0vgwdxx",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
