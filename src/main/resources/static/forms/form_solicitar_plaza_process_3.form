@@ -6,7 +6,7 @@
       "id": "Field_0tdsi90"
     },
     {
-      "label": "Enviar formulario #{tipoPlaza}",
+      "label": "Enviar formulario",
       "type": "checkbox",
       "id": "Field_1gy55cm",
       "key": "field_00tn4xg"
