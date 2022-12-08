@@ -11,12 +11,11 @@
       "id": "Field_0jl2yvv"
     },
     {
-      "label": "Text Field",
+      "label": "descriptor",
       "type": "textfield",
       "id": "Field_0s28kif",
-      "key": "field_0admhkh",
-      "disabled": true,
-      "defaultValue": "#{descriptor}"
+      "key": "descriptor",
+      "disabled": true
     },
     {
       "values": [
