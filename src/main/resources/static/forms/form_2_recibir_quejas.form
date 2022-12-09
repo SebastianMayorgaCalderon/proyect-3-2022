@@ -1,12 +1,12 @@
 {
   "components": [
     {
-      "text": "# Recibir Quejas",
+      "text": "# Recibir Queja",
       "type": "text",
       "id": "Field_19myg2o"
     },
     {
-      "label": "Recibio las quejas",
+      "label": "Recibio la queja",
       "type": "checkbox",
       "id": "Field_03xsipx",
       "key": "id_reci_quejas"
@@ -16,7 +16,7 @@
   "id": "Form_1m7e4b4",
   "exporter": {
     "name": "Camunda Modeler",
-    "version": "5.5.0"
+    "version": "5.4.2"
   },
   "executionPlatform": "Camunda Platform",
   "executionPlatformVersion": "7.18.0",

@@ -1,7 +1,7 @@
 {
   "components": [
     {
-      "text": "# Solicitar info por email",
+      "text": "# Solicitar información por email",
       "type": "text",
       "id": "Field_04x92vb"
     },
@@ -16,7 +16,7 @@
           "value": "si"
         }
       ],
-      "label": "facilitador",
+      "label": "¿Necesita algún facilitador? ",
       "type": "radio",
       "id": "Field_1tcpv9i",
       "key": "facilitador"

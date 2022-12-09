@@ -16,7 +16,7 @@
     <bpmn:sequenceFlow id="Flow_14uxkyl" sourceRef="Activity_0rihi96" targetRef="Event_0yq5vvs" />
     <bpmn:sequenceFlow id="Flow_0uogfae" sourceRef="Activity_1mrf1c8" targetRef="Activity_0rihi96" />
     <bpmn:sequenceFlow id="Flow_0v11xfn" sourceRef="Activity_11qqef0" targetRef="Gateway_00zlfbb" />
-    <bpmn:userTask id="Activity_0j4var0" name="Recibir la quejas" camunda:formKey="camunda-forms:/forms/form_2_recibir_quejas.form">
+    <bpmn:userTask id="Activity_0j4var0" name="Recibir la queja" camunda:formKey="camunda-forms:/forms/form_2_recibir_quejas.form">
       <bpmn:incoming>Flow_1opg838</bpmn:incoming>
       <bpmn:outgoing>Flow_1vmebt3</bpmn:outgoing>
     </bpmn:userTask>
@@ -71,6 +71,7 @@
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Activity_1nihr19_di" bpmnElement="Activity_0j4var0">
         <dc:Bounds x="210" y="180" width="100" height="80" />
+        <bpmndi:BPMNLabel />
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="Activity_0let8ek_di" bpmnElement="Activity_10z7o3w">
         <dc:Bounds x="340" y="180" width="100" height="80" />

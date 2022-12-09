@@ -6,6 +6,11 @@
       "id": "Field_0w1g7jh"
     },
     {
+      "text": "Se va a impartir un tema ",
+      "type": "text",
+      "id": "Field_149tbq1"
+    },
+    {
       "label": "solicitada",
       "type": "checkbox",
       "id": "Field_0cr89p6",
