@@ -1,0 +1,35 @@
+{
+  "components": [
+    {
+      "text": "# Aprobación de propuesta de comunicación por parte de talento humano",
+      "type": "text",
+      "id": "Field_06ddmo9"
+    },
+    {
+      "values": [
+        {
+          "label": "Si",
+          "value": "si"
+        },
+        {
+          "label": "No",
+          "value": "no"
+        }
+      ],
+      "label": "¿Desea aprobarlo?",
+      "type": "radio",
+      "id": "Field_08o7s5b",
+      "key": "aprobada",
+      "defaultValue": "<none>"
+    }
+  ],
+  "type": "default",
+  "id": "Form_15lx5b2",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
