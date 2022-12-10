@@ -6,6 +6,12 @@
       "id": "Field_08b6lrx"
     },
     {
+      "label": "Crear propuesta de formación",
+      "type": "textfield",
+      "id": "Field_07sq2gs",
+      "key": "field_1neii4s"
+    },
+    {
       "label": "Propuesta creada",
       "type": "checkbox",
       "id": "Field_0tmmpjb",

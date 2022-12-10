@@ -1,12 +1,12 @@
 {
   "components": [
     {
-      "text": "# Enviar la validación de",
+      "text": "# Enviar la validación de forma oral, virtual o escrita",
       "type": "text",
       "id": "Field_1jcv1oj"
     },
     {
-      "label": "Enviada",
+      "label": "Enviar",
       "type": "checkbox",
       "id": "Field_10ocdkd",
       "key": "field_0pq2uun"

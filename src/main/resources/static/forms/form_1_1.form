@@ -6,6 +6,11 @@
       "id": "Field_029dvky"
     },
     {
+      "text": " En el mes de octubre y noviembre se empieza a realizar ste comunicado por vía correo",
+      "type": "text",
+      "id": "Field_07f9odv"
+    },
+    {
       "label": "comunicado",
       "type": "checkbox",
       "id": "Field_0ckk1gq",
