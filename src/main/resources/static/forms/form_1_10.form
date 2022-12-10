@@ -36,10 +36,21 @@
       "key": "id_duracion"
     },
     {
-      "label": "Registrar asistencia",
-      "type": "checkbox",
-      "id": "Field_1bxsj2h",
-      "key": "field_0hwg0bj"
+      "values": [
+        {
+          "label": "si",
+          "value": "si"
+        },
+        {
+          "label": "no",
+          "value": "no"
+        }
+      ],
+      "label": "Se debe aplicar validación de conocimientos?",
+      "type": "radio",
+      "id": "Field_1pipcsc",
+      "key": "respuesta",
+      "defaultValue": "si"
     }
   ],
   "type": "default",

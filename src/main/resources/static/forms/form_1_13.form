@@ -1,19 +1,19 @@
 {
   "components": [
     {
-      "text": "# Enviar las validaciones",
+      "text": "#Aplicar validación de conocimientos",
       "type": "text",
-      "id": "Field_1jcv1oj"
+      "id": "Field_125ka2a"
     },
     {
-      "label": "Enviar",
+      "label": "Aplicada",
       "type": "checkbox",
-      "id": "Field_10ocdkd",
-      "key": "field_0pq2uun"
+      "id": "Field_0wupn6g",
+      "key": "field_0tfrk1x"
     }
   ],
   "type": "default",
-  "id": "Form_0c4ys06",
+  "id": "Form_13",
   "exporter": {
     "name": "Camunda Modeler",
     "version": "5.4.2"
