@@ -9,11 +9,11 @@
       "values": [
         {
           "label": "R-DHCO-AR03  Plaza Regional",
-          "value": "R-DHCO-AR03"
+          "value": "no"
         },
         {
           "label": " R-DHCO-AR01 Nueva Plaza",
-          "value": " R-DHCO-AR01"
+          "value": "si"
         }
       ],
       "label": "Tipo de plaza",

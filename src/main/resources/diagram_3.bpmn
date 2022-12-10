@@ -11,7 +11,7 @@
       <bpmn:outgoing>Flow_08k3kzy</bpmn:outgoing>
     </bpmn:exclusiveGateway>
     <bpmn:sequenceFlow id="Flow_0mxfk2z" name="Sí" sourceRef="Gateway_14qiopd" targetRef="Activity_0ho0axf">
-      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">#{tipoPlaza== "R-DHCO-AR01"}</bpmn:conditionExpression>
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">#{tipoPlaza== "si"}</bpmn:conditionExpression>
     </bpmn:sequenceFlow>
     <bpmn:sequenceFlow id="Flow_001ruze" sourceRef="Activity_0r08ftg" targetRef="Activity_1pf2twt" />
     <bpmn:sequenceFlow id="Flow_0xdjawk" sourceRef="Activity_0xtbydn" targetRef="Activity_0h9zxnh" />
@@ -30,7 +30,7 @@
     <bpmn:sequenceFlow id="Flow_0pyud5x" sourceRef="Activity_14mng5r" targetRef="Activity_0xtbydn" />
     <bpmn:sequenceFlow id="Flow_01u1p0l" sourceRef="Activity_0ho0axf" targetRef="Activity_1pf2twt" />
     <bpmn:sequenceFlow id="Flow_08k3kzy" name="No" sourceRef="Gateway_14qiopd" targetRef="Activity_0r08ftg">
-      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">#{tipoPlaza== "R-DHCO-AR03"}</bpmn:conditionExpression>
+      <bpmn:conditionExpression xsi:type="bpmn:tFormalExpression">#{tipoPlaza== "no"}</bpmn:conditionExpression>
     </bpmn:sequenceFlow>
     <bpmn:sequenceFlow id="Flow_0k0ydct" name="" sourceRef="StartEvent_1" targetRef="Activity_0cezxr2" />
     <bpmn:sequenceFlow id="Flow_0cw3j3o" name="Es una nueva plaza?" sourceRef="Activity_0cezxr2" targetRef="Gateway_14qiopd" />
@@ -51,7 +51,7 @@
       <bpmn:incoming>Flow_0k0ydct</bpmn:incoming>
       <bpmn:outgoing>Flow_0cw3j3o</bpmn:outgoing>
     </bpmn:userTask>
-    <bpmn:userTask id="Activity_0ho0axf" name="Solicitar plaza enviando  formulario R-DHCO-AR01 Nueva Plaza" camunda:formKey="camunda-forms:/forms/form_solicitar_plaza_process_3.form">
+    <bpmn:userTask id="Activity_0ho0axf" name="Solicitar plaza enviando  formulario R-DHCO-AR01 Nueva Plaza" camunda:formKey="camunda-forms:/forms/form_recibir_docs_process_3.form">
       <bpmn:incoming>Flow_0mxfk2z</bpmn:incoming>
       <bpmn:outgoing>Flow_01u1p0l</bpmn:outgoing>
     </bpmn:userTask>
