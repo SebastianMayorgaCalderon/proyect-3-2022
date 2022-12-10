@@ -72,7 +72,7 @@
       <bpmn:incoming>Flow_0moc4wp</bpmn:incoming>
       <bpmn:outgoing>Flow_1s0lt7s</bpmn:outgoing>
     </bpmn:userTask>
-    <bpmn:userTask id="Activity_1m4qdx7" name="Aprobar propuesta de comunicación" camunda:formKey="camunda-forms:/forms/form_1_7.form">
+    <bpmn:userTask id="Activity_1m4qdx7" name="Aprobar propuesta de comunicación" camunda:formKey="camunda-forms:/forms/form_1_12.form">
       <bpmn:incoming>Flow_1s0lt7s</bpmn:incoming>
       <bpmn:outgoing>Flow_1f3icak</bpmn:outgoing>
     </bpmn:userTask>

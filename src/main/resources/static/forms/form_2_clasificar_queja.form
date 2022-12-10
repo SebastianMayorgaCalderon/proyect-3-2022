@@ -1,15 +1,9 @@
 {
   "components": [
     {
-      "text": "# Clasificar Queja",
+      "text": "# Clasificación de la queja según el pilar de la empresa que les afecta",
       "type": "text",
       "id": "Field_1wo7jd4"
-    },
-    {
-      "label": "Queja 1",
-      "type": "textfield",
-      "id": "Field_0nyh9ll",
-      "key": "id_queja_1"
     },
     {
       "label": "Atención del invitado",
