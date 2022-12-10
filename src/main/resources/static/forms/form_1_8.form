@@ -6,6 +6,12 @@
       "id": "Field_0t7cg1m"
     },
     {
+      "label": "Link de acceso o Espacio donde va realizar la formación",
+      "type": "textfield",
+      "id": "Field_1liuvp7",
+      "key": "id_reu"
+    },
+    {
       "label": "convocado",
       "type": "checkbox",
       "id": "Field_11vewgf",

@@ -1,7 +1,7 @@
 {
   "components": [
     {
-      "text": "# Solicitar información por email",
+      "text": "# Solicitar formación por email",
       "type": "text",
       "id": "Field_04x92vb"
     },
