@@ -16,7 +16,7 @@
           "value": "no"
         }
       ],
-      "label": "Recibira Recompensa",
+      "label": "¿El cliente recibirá una recompensa?",
       "type": "radio",
       "id": "Field_00t4ehx",
       "key": "recompensa"

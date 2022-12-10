@@ -8,19 +8,15 @@
     {
       "values": [
         {
-          "label": "SI",
+          "label": "Si",
           "value": "si"
-        },
-        {
-          "label": "no",
-          "value": "no"
         }
       ],
-      "label": "Aprobada",
+      "label": "¿Desea aprobar la propuesta?",
       "type": "radio",
-      "id": "Field_01ujfgd",
-      "key": "aprobada",
-      "defaultValue": "si"
+      "id": "Field_0mc2s0k",
+      "key": "field_07jr576",
+      "defaultValue": "value"
     }
   ],
   "type": "default",

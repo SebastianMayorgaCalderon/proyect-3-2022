@@ -6,7 +6,37 @@
       "id": "Field_0hguo0s"
     },
     {
-      "label": "registrada",
+      "label": "Nombre completo",
+      "type": "textfield",
+      "id": "Field_10s6mb5",
+      "key": "id_complete_name"
+    },
+    {
+      "label": "Departamento",
+      "type": "textfield",
+      "id": "Field_0a8d8z5",
+      "key": "id_dep"
+    },
+    {
+      "label": "Fecha",
+      "type": "textfield",
+      "id": "Field_0ygrp9l",
+      "key": "id_fech"
+    },
+    {
+      "label": "Nombre formación ",
+      "type": "textfield",
+      "id": "Field_14n5tzw",
+      "key": "id_formation_name"
+    },
+    {
+      "label": "Duración ",
+      "type": "textfield",
+      "id": "Field_18k8noo",
+      "key": "id_duracion"
+    },
+    {
+      "label": "Registrar asistencia",
       "type": "checkbox",
       "id": "Field_1bxsj2h",
       "key": "field_0hwg0bj"

@@ -6,7 +6,12 @@
       "id": "Field_064j2o1"
     },
     {
-      "label": "Resolución",
+      "text": "Después de ser analizada la resolución, la agregamos para continuar con el caso",
+      "type": "text",
+      "id": "Field_1vwdoit"
+    },
+    {
+      "label": "Resolución final del caso",
       "type": "textfield",
       "id": "Field_1xrr02d",
       "key": "field_12azhni"
@@ -16,7 +21,7 @@
   "id": "Resolucion_grupalid",
   "exporter": {
     "name": "Camunda Modeler",
-    "version": "5.5.0"
+    "version": "5.4.2"
   },
   "executionPlatform": "Camunda Platform",
   "executionPlatformVersion": "7.18.0",

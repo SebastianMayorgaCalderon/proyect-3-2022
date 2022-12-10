@@ -6,6 +6,41 @@
       "id": "Field_1ms5myh"
     },
     {
+      "text": " Esta solicitud de formaciones se hace por vía correo",
+      "type": "text",
+      "id": "Field_1omx0jt"
+    },
+    {
+      "label": "Tema",
+      "type": "textfield",
+      "id": "Field_10h862x",
+      "key": "id_topic"
+    },
+    {
+      "label": "Objetivo",
+      "type": "textfield",
+      "id": "Field_0who9oo",
+      "key": "id_objetive"
+    },
+    {
+      "label": "Lista de personas que se van a conovocar",
+      "type": "textfield",
+      "id": "Field_1niv8zl",
+      "key": "id_people_list"
+    },
+    {
+      "label": "Fecha y hora",
+      "type": "textfield",
+      "id": "Field_0xyvhtx",
+      "key": "id_date_time"
+    },
+    {
+      "label": "Modalidad",
+      "type": "textfield",
+      "id": "Field_16rhepz",
+      "key": "id_modalidad"
+    },
+    {
       "label": "Solicitado",
       "type": "checkbox",
       "id": "Field_0qhyte9",
